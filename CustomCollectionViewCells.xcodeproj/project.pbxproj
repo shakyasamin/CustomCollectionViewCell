@@ -13,6 +13,7 @@
 		28550A162A483BA1006DD149 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28550A142A483BA1006DD149 /* Main.storyboard */; };
 		28550A182A483BA2006DD149 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28550A172A483BA2006DD149 /* Assets.xcassets */; };
 		28550A1B2A483BA2006DD149 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28550A192A483BA2006DD149 /* LaunchScreen.storyboard */; };
+		28550A232A484042006DD149 /* CustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28550A222A484042006DD149 /* CustomCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		28550A172A483BA2006DD149 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28550A1A2A483BA2006DD149 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28550A1C2A483BA2006DD149 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28550A222A484042006DD149 /* CustomCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				28550A172A483BA2006DD149 /* Assets.xcassets */,
 				28550A192A483BA2006DD149 /* LaunchScreen.storyboard */,
 				28550A1C2A483BA2006DD149 /* Info.plist */,
+				28550A222A484042006DD149 /* CustomCollectionViewCell.swift */,
 			);
 			path = CustomCollectionViewCells;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				28550A132A483BA1006DD149 /* ViewController.swift in Sources */,
 				28550A0F2A483BA1006DD149 /* AppDelegate.swift in Sources */,
 				28550A112A483BA1006DD149 /* SceneDelegate.swift in Sources */,
+				28550A232A484042006DD149 /* CustomCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
